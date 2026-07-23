@@ -14,3 +14,11 @@ This repository contains my accepted LeetCode solutions.
 - Learn efficient algorithms and SQL query optimization
 
 Total problems solved: (updated automatically by LeetHub)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+<!---LeetCode Topics End-->
