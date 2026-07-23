@@ -6,7 +6,7 @@ This repository contains my accepted LeetCode solutions.
 ## Languages
 - SQL
 - Python
-- C++
+- Java
 
 ## Goals
 - Improve problem-solving skills
