@@ -21,4 +21,12 @@ Total problems solved: (updated automatically by LeetHub)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
