@@ -33,11 +33,13 @@ Total problems solved: (updated automatically by LeetHub)
 | [0001-two-sum](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,8 @@ Total problems solved: (updated automatically by LeetHub)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
