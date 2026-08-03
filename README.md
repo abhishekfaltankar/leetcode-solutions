@@ -21,6 +21,7 @@ Total problems solved: (updated automatically by LeetHub)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0182-duplicate-emails](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
