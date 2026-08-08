@@ -21,6 +21,7 @@ Total problems solved: (updated automatically by LeetHub)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/abhishekfaltankar/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
